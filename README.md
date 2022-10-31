@@ -10,4 +10,9 @@ Projeto tela de login criado durante o curso de HTML5 e CSS3 do curso em video
 
 ![image](https://user-images.githubusercontent.com/68343463/199102636-1d7d2455-2f56-43ab-a19e-e8f9de70bbd8.png)
 
-# 
+# Tecnologias utilizdas:
+
+* HTML
+* CSS
+
+Resultado final: <a href="https://marcelohenriquedoriafigueiredo.github.io/projeto-login/">https://marcelohenriquedoriafigueiredo.github.io/projeto-login/</a>.
